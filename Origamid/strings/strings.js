@@ -52,7 +52,7 @@
 let priceCart = "100"; 
 let priceCartNumber = +priceCart; 
 
-console.log(priceCart, typeof priceCart);
-console.log(priceCartNumber, typeof priceCartNumber);
+console.log(priceCart, typeof priceCart); //100 string
+console.log(priceCartNumber, typeof priceCartNumber); //100 number
 
 
